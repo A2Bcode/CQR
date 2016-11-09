@@ -1,7 +1,7 @@
 # CQR
 Color QR code java generator
 
-[![Build Status]Passed]
+[![Build Status]passing]
 
 `Version: v0.1.1, 2016-11-09`
 
